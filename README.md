@@ -13,6 +13,8 @@ pip install -r requirements.txt
 # Vector database
 pip install chromadb
 
+![image](https://github.com/anjijava16/OpenAI/assets/5849522/432b61f5-2242-49ed-9e52-0a2587079645)
+
 
 #  Langchain Tutorials
 1. https://github.com/krishnaik06/Langchain-Tutorials
