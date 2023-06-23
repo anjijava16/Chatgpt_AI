@@ -21,7 +21,9 @@ With the rise of Foundational Models, Vector Databases skyrocketed in popularity
 When it comes to Machine Learning, we often deal with Vector Embeddings. Vector Databases were created to perform specifically well when working with them:
 
 ➡️ Storing.
+
 ➡️ Updating.
+
 ➡️ Retrieving.
 
 When we talk about retrieval, we refer to retrieving set of vectors that are most similar to a query in a form of a vector that is embedded in the same Latent space. This retrieval procedure is called Approximate Nearest Neighbour (ANN) search.
