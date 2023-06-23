@@ -10,6 +10,10 @@ In this article, we will cover the key similarities and differences between Chat
 # pip install
 pip install -r requirements.txt
 
+# Vector database
+pip install chromadb
+
+
 #  Langchain Tutorials
 1. https://github.com/krishnaik06/Langchain-Tutorials
 2. https://github.com/krishnaik06/Prompt-Engineering-LangChain/blob/main/PromptEngineering.ipynb
