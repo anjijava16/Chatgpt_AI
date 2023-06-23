@@ -5,8 +5,10 @@ OpenAI stunned the world when it dropped ChatGPT in late 2022. The new generativ
 In short, ChatGPT threatens to disrupt just about everything. And even before we had time to truly envision a post-ChatGPT world, OpenAI dropped GPT-4.
 In recent months, the speed with which groundbreaking large language models have been released is astonishing. If you still don’t understand how ChatGPT differs from GPT-3, let alone GPT-4, I don’t blame you.
 
-In this article, we will cover the key similarities and differences between ChatGPT and GPT-4, including their training methods, performance and capabilities, and limitations.
+# Reference books
+1. https://github.com/openai/openai-cookbook/tree/main
 
+   
 # pip install
 pip install -r requirements.txt
 
