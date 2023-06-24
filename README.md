@@ -7,6 +7,7 @@ In recent months, the speed with which groundbreaking large language models have
 
 # Reference books
 1. https://github.com/openai/openai-cookbook/tree/main
+2. https://www.youtube.com/@codingcrashcourses8533
 
    
 # pip install
