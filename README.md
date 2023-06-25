@@ -7,7 +7,8 @@ In recent months, the speed with which groundbreaking large language models have
 
 # Reference books
 1. https://github.com/openai/openai-cookbook/tree/main
-2. https://www.youtube.com/@codingcrashcourses8533
+2. https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/home
+3. https://www.youtube.com/@codingcrashcourses8533
 
    
 # pip install
