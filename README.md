@@ -65,6 +65,7 @@ pip install chromadb
 #  Langchain Tutorials
 1. https://github.com/krishnaik06/Langchain-Tutorials
 2. https://github.com/krishnaik06/Prompt-Engineering-LangChain/blob/main/PromptEngineering.ipynb
+3. https://www.youtube.com/watch?v=nAmC7SoVLd8
 
    
 # Reference Exampels
